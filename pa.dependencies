@@ -19,7 +19,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "omnirom/android_kernel_samsung_smdk4412",
+        "repository":   "AOSPA-legacy/android_kernel_samsung_smdk4412",
         "target_path":  "kernel/samsung/smdk4412",
 	"revision":     "kitkat"
     },
